@@ -1,0 +1,10 @@
+C:\Users\User Alter\source\repos\DDD\DDD\WebApiClient.Poc\WebApiClient.PoC.HttpClient\bin\Debug\netstandard2.0\WebApiClient.PoC.HttpClientServices.deps.json
+C:\Users\User Alter\source\repos\DDD\DDD\WebApiClient.Poc\WebApiClient.PoC.HttpClient\bin\Debug\netstandard2.0\WebApiClient.PoC.HttpClientServices.dll
+C:\Users\User Alter\source\repos\DDD\DDD\WebApiClient.Poc\WebApiClient.PoC.HttpClient\bin\Debug\netstandard2.0\WebApiClient.PoC.HttpClientServices.pdb
+C:\Users\User Alter\source\repos\DDD\DDD\WebApiClient.Poc\WebApiClient.PoC.HttpClient\bin\Debug\netstandard2.0\WebApiClient.Poc.dll
+C:\Users\User Alter\source\repos\DDD\DDD\WebApiClient.Poc\WebApiClient.PoC.HttpClient\bin\Debug\netstandard2.0\WebApiClient.Poc.pdb
+C:\Users\User Alter\source\repos\DDD\DDD\WebApiClient.Poc\WebApiClient.PoC.HttpClient\obj\Debug\netstandard2.0\WebApiClient.PoC.HttpClientServices.csprojAssemblyReference.cache
+C:\Users\User Alter\source\repos\DDD\DDD\WebApiClient.Poc\WebApiClient.PoC.HttpClient\obj\Debug\netstandard2.0\WebApiClient.PoC.HttpClientServices.csproj.CoreCompileInputs.cache
+C:\Users\User Alter\source\repos\DDD\DDD\WebApiClient.Poc\WebApiClient.PoC.HttpClient\obj\Debug\netstandard2.0\WebApiClient.PoC.HttpClientServices.csproj.CopyComplete
+C:\Users\User Alter\source\repos\DDD\DDD\WebApiClient.Poc\WebApiClient.PoC.HttpClient\obj\Debug\netstandard2.0\WebApiClient.PoC.HttpClientServices.dll
+C:\Users\User Alter\source\repos\DDD\DDD\WebApiClient.Poc\WebApiClient.PoC.HttpClient\obj\Debug\netstandard2.0\WebApiClient.PoC.HttpClientServices.pdb

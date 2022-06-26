@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WebApiClient.PoC.HttpClientServices
+build_property.ProjectDir = C:\Users\User Alter\source\repos\DDD\DDD\WebApiClient.Poc\WebApiClient.PoC.HttpClient\
